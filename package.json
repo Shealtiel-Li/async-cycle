@@ -1,0 +1,28 @@
+{
+  "name": "async-cycle",
+  "version": "1.0.9",
+  "description": "Map over promises serially",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "map",
+    "collection",
+    "iterable",
+    "iterator",
+    "fulfilled",
+    "serial",
+    "serially",
+    "async",
+    "await",
+    "promises",
+    "bluebird"
+  ],
+  "author": {
+    "name": "Shealtiel Li",
+    "email": "shealtiel_li@sina.com"
+  },
+  "license": "MIT"
+}
