@@ -25,5 +25,8 @@
     "name": "Shealtiel Li",
     "email": "shealtiel_li@sina.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async-cycle": "^1.0.12"
+  }
 }
