@@ -1,6 +1,6 @@
 {
   "name": "async-cycle",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "repository": "Shealtiel-Li/async-cycle",
   "description": "Map over promises serially",
   "main": "index.js",
