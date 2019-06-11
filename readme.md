@@ -31,12 +31,12 @@ const createPromise = async (value) => {
 
 (async () => {
     await asyncWhile(keywords,async value => {
-       return await createPromise(value);
+       return createPromise(value);
     });
     //Colin Han
     
     await asyncMap(keywords,async value => {
-        return await createPromise(value) ;
+        return createPromise(value) ;
     });
     //['Colin Han','Shealtiel Li']
 })();
