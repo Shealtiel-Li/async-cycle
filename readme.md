@@ -33,7 +33,8 @@ const createPromise = async (value) => {
     await asyncWhile(keywords,async value => {
        return createPromise(value);
     });
-    //Colin Han
+    //['Colin Han']
+
     
     await asyncMap(keywords,async value => {
         return createPromise(value) ;
